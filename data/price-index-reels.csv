@@ -1,0 +1,104 @@
+month,brand,id,name,prev_sales,prev_median_usd,sales,median_usd,change
+2026-09,penn,penn-peer-209,Penn Peer 209,62,20.65,50,20.88,0.0111
+2026-09,penn,penn-senator-113h,Penn Senator 113H,56,47.49,36,53.50,0.1266
+2026-09,penn,penn-jigmaster-500,Penn Jigmaster 500,38,26.35,33,27.00,0.0247
+2026-09,penn,penn-peerless-9,Penn Peerless 9,30,25.00,24,20.00,-0.2000
+2026-09,penn,penn-senator-114h,Penn Senator 114H,36,68.50,23,50.00,-0.2701
+2026-09,penn,penn-peer-109,Penn Peer 109,20,19.99,21,19.95,-0.0020
+2026-09,penn,penn-peer-309,Penn Peer 309,23,24.99,18,25.30,0.0122
+2026-09,penn,penn-senator-9-0,Penn Senator 9/0,19,94.99,17,104.00,0.0949
+2026-09,penn,penn-delmar-285,Penn Delmar 285,15,14.95,15,12.56,-0.1599
+2026-09,penn,penn-gti-320,Penn GTi 320,18,40.00,14,38.28,-0.0429
+2026-09,penn,penn-leveline-350,Penn Leveline 350,6,14.49,14,28.22,0.9472
+2026-09,penn,penn-mariner-49,Penn Mariner 49,11,28.80,14,39.99,0.3885
+2026-09,penn,penn-squidder-140,Penn Squidder 140,27,49.95,14,40.13,-0.1967
+2026-09,penn,penn-senator-112h,Penn Senator 112H,11,49.99,12,40.00,-0.1998
+2026-09,penn,penn-senator-6-0,Penn Senator 6/0,16,62.50,12,49.99,-0.2002
+2026-09,penn,penn-levelmatic-940,Penn Levelmatic 940,8,52.38,11,58.97,0.1259
+2026-09,penn,penn-senator-113,Penn Senator 113,6,24.95,11,34.99,0.4024
+2026-09,penn,penn-long_beach-60,Penn Long Beach 60,12,18.97,10,15.00,-0.2093
+2026-09,penn,penn-long_beach-65,Penn Long Beach 65,19,13.99,10,20.36,0.4553
+2026-09,penn,penn-gti-330,Penn GTi 330,11,32.99,9,40.00,0.2125
+2026-09,penn,penn-international-30tw,Penn International 30TW,5,285.00,9,299.99,0.0526
+2026-09,penn,penn-levelmatic-920,Penn Levelmatic 920,5,45.00,9,50.00,0.1111
+2026-09,penn,penn-levelmatic-930,Penn Levelmatic 930,7,44.49,8,51.50,0.1576
+2026-09,penn,penn-international-30sw,Penn International 30SW,6,385.00,7,331.00,-0.1403
+2026-09,penn,penn-senator-113hlw,Penn Senator 113HLW,6,87.48,7,62.95,-0.2804
+2026-09,penn,penn-senator-4-0,Penn Senator 4/0,13,33.00,7,40.00,0.2121
+2026-09,penn,penn-surfmaster-200,Penn Surfmaster 200,10,20.80,7,24.99,0.2017
+2026-09,penn,penn-long_beach-68,Penn Long Beach 68,5,18.25,6,18.80,0.0301
+2026-09,penn,penn-mariner-349,Penn Mariner 349,10,67.50,6,57.74,-0.1445
+2026-09,penn,penn-international-30,Penn International 30,7,180.00,5,229.00,0.2722
+2026-09,penn,penn-international-50sw,Penn International 50SW,7,450.00,5,470.00,0.0444
+2026-09,penn,penn-monofil-25,Penn Monofil 25,6,25.00,5,25.00,0.0000
+2026-09,penn,penn-senator-113hl,Penn Senator 113HL,5,57.40,5,70.00,0.2195
+2026-09,penn,penn-spinfisher-712,Penn Spinfisher 712,5,35.00,5,44.99,0.2854
+2026-09,abu_garcia,abu_garcia-ambassadeur-5000,Abu Garcia Ambassadeur 5000,108,49.95,102,41.00,-0.1792
+2026-09,abu_garcia,abu_garcia-ambassadeur-5500c,Abu Garcia Ambassadeur 5500C,67,39.95,70,48.60,0.2165
+2026-09,abu_garcia,abu_garcia-ambassadeur-6000,Abu Garcia Ambassadeur 6000,35,50.00,34,50.00,-0.0001
+2026-09,abu_garcia,abu_garcia-ambassadeur-5000c,Abu Garcia Ambassadeur 5000C,37,46.04,29,40.00,-0.1312
+2026-09,abu_garcia,abu_garcia-ambassadeur-6500c,Abu Garcia Ambassadeur 6500C,25,75.00,24,62.98,-0.1603
+2026-09,abu_garcia,abu_garcia-ambassadeur-7000,Abu Garcia Ambassadeur 7000,19,93.00,21,82.00,-0.1183
+2026-09,abu_garcia,abu_garcia-ambassadeur-2500c,Abu Garcia Ambassadeur 2500C,21,153.50,18,157.50,0.0261
+2026-09,abu_garcia,abu_garcia-ambassadeur-5500,Abu Garcia Ambassadeur 5500,9,100.00,14,84.00,-0.1600
+2026-09,abu_garcia,abu_garcia-ambassadeur-4600c,Abu Garcia Ambassadeur 4600C,14,55.00,12,55.50,0.0091
+2026-09,abu_garcia,abu_garcia-ambassadeur-5000d,Abu Garcia Ambassadeur 5000D,16,59.98,12,55.98,-0.0667
+2026-09,abu_garcia,abu_garcia-ambassadeur-6000c,Abu Garcia Ambassadeur 6000C,14,44.50,12,49.50,0.1124
+2026-09,abu_garcia,abu_garcia-ambassadeur-5600c,Abu Garcia Ambassadeur 5600C,10,65.00,11,72.80,0.1200
+2026-09,abu_garcia,abu_garcia-ambassadeur-1500c,Abu Garcia Ambassadeur 1500C,5,250.00,9,189.99,-0.2400
+2026-09,abu_garcia,abu_garcia-ambassadeur-4500c,Abu Garcia Ambassadeur 4500C,6,64.98,9,74.98,0.1540
+2026-09,abu_garcia,abu_garcia-ambassadeur-6500,Abu Garcia Ambassadeur 6500,11,158.66,7,95.00,-0.4012
+2026-09,abu_garcia,abu_garcia-ambassadeur-3600,Abu Garcia Ambassadeur 3600,6,29.99,6,56.77,0.8925
+2026-09,abu_garcia,abu_garcia-ambassadeur-6600bcx,Abu Garcia Ambassadeur 6600BCX,6,42.50,6,34.10,-0.1977
+2026-09,abu_garcia,abu_garcia-ambassadeur-4600cb,Abu Garcia Ambassadeur 4600CB,10,69.97,5,63.00,-0.0996
+2026-09,abu_garcia,abu_garcia-ambassadeur-5001c,Abu Garcia Ambassadeur 5001C,12,99.48,5,53.00,-0.4672
+2026-09,abu_garcia,abu_garcia-ambassadeur-7000c,Abu Garcia Ambassadeur 7000C,8,93.50,5,94.95,0.0156
+2026-08,penn,penn-peer-209,Penn Peer 209,36,20.61,62,20.65,0.0019
+2026-08,penn,penn-senator-113h,Penn Senator 113H,43,50.00,56,47.49,-0.0503
+2026-08,penn,penn-jigmaster-500,Penn Jigmaster 500,26,29.99,38,26.35,-0.1215
+2026-08,penn,penn-senator-114h,Penn Senator 114H,33,64.99,36,68.50,0.0540
+2026-08,penn,penn-peerless-9,Penn Peerless 9,16,19.49,30,25.00,0.2824
+2026-08,penn,penn-squidder-140,Penn Squidder 140,14,36.25,27,49.95,0.3779
+2026-08,penn,penn-peer-309,Penn Peer 309,9,24.95,23,24.99,0.0016
+2026-08,penn,penn-peer-109,Penn Peer 109,11,23.99,20,19.99,-0.1667
+2026-08,penn,penn-long_beach-65,Penn Long Beach 65,12,16.00,19,13.99,-0.1254
+2026-08,penn,penn-senator-9-0,Penn Senator 9/0,21,89.99,19,94.99,0.0556
+2026-08,penn,penn-gti-320,Penn GTi 320,14,37.50,18,40.00,0.0667
+2026-08,penn,penn-senator-6-0,Penn Senator 6/0,16,49.50,16,62.50,0.2628
+2026-08,penn,penn-delmar-285,Penn Delmar 285,15,12.34,15,14.95,0.2115
+2026-08,penn,penn-senator-4-0,Penn Senator 4/0,12,43.00,13,33.00,-0.2325
+2026-08,penn,penn-international-965,Penn International 965,9,189.99,12,196.30,0.0332
+2026-08,penn,penn-long_beach-60,Penn Long Beach 60,26,18.29,12,18.97,0.0372
+2026-08,penn,penn-gti-330,Penn GTi 330,15,60.00,11,32.99,-0.4502
+2026-08,penn,penn-mariner-49,Penn Mariner 49,6,35.63,11,28.80,-0.1916
+2026-08,penn,penn-senator-112h,Penn Senator 112H,11,40.00,11,49.99,0.2498
+2026-08,penn,penn-international-975,Penn International 975,6,218.75,10,245.00,0.1200
+2026-08,penn,penn-surfmaster-200,Penn Surfmaster 200,6,16.36,10,20.80,0.2715
+2026-08,penn,penn-jigmaster-500s,Penn Jigmaster 500S,5,39.95,9,30.00,-0.2491
+2026-08,penn,penn-levelmatic-940,Penn Levelmatic 940,8,62.50,8,52.38,-0.1620
+2026-08,penn,penn-international-30,Penn International 30,10,186.25,7,180.00,-0.0335
+2026-08,penn,penn-levelmatic-930,Penn Levelmatic 930,8,45.00,7,44.49,-0.0113
+2026-08,penn,penn-spinfisher-710,Penn Spinfisher 710,6,42.68,7,45.50,0.0662
+2026-08,penn,penn-leveline-350,Penn Leveline 350,12,19.92,6,14.49,-0.2724
+2026-08,penn,penn-senator-113hlw,Penn Senator 113HLW,6,95.00,6,87.48,-0.0792
+2026-08,penn,penn-international-30tw,Penn International 30TW,5,320.00,5,285.00,-0.1094
+2026-08,penn,penn-squidder-146,Penn Squidder 146,5,65.00,5,95.00,0.4615
+2026-08,abu_garcia,abu_garcia-ambassadeur-5000,Abu Garcia Ambassadeur 5000,93,39.99,108,49.95,0.2491
+2026-08,abu_garcia,abu_garcia-ambassadeur-5500c,Abu Garcia Ambassadeur 5500C,59,49.99,67,39.95,-0.2008
+2026-08,abu_garcia,abu_garcia-ambassadeur-5000c,Abu Garcia Ambassadeur 5000C,26,38.99,37,46.04,0.1810
+2026-08,abu_garcia,abu_garcia-ambassadeur-6000,Abu Garcia Ambassadeur 6000,26,55.00,35,50.00,-0.0909
+2026-08,abu_garcia,abu_garcia-ambassadeur-6500c,Abu Garcia Ambassadeur 6500C,14,52.98,25,75.00,0.4158
+2026-08,abu_garcia,abu_garcia-ambassadeur-2500c,Abu Garcia Ambassadeur 2500C,23,175.00,21,153.50,-0.1229
+2026-08,abu_garcia,abu_garcia-ambassadeur-7000,Abu Garcia Ambassadeur 7000,9,80.00,19,93.00,0.1625
+2026-08,abu_garcia,abu_garcia-ambassadeur-5000d,Abu Garcia Ambassadeur 5000D,18,56.75,16,59.98,0.0568
+2026-08,abu_garcia,abu_garcia-ambassadeur-4600c,Abu Garcia Ambassadeur 4600C,9,55.00,14,55.00,0.0000
+2026-08,abu_garcia,abu_garcia-ambassadeur-6000c,Abu Garcia Ambassadeur 6000C,17,59.99,14,44.50,-0.2582
+2026-08,abu_garcia,abu_garcia-ambassadeur-5001c,Abu Garcia Ambassadeur 5001C,9,81.00,12,99.48,0.2281
+2026-08,abu_garcia,abu_garcia-ambassadeur-6500,Abu Garcia Ambassadeur 6500,5,88.00,11,158.66,0.8030
+2026-08,abu_garcia,abu_garcia-ambassadeur-5600c,Abu Garcia Ambassadeur 5600C,5,28.00,10,65.00,1.3214
+2026-08,abu_garcia,abu_garcia-ambassadeur-5500,Abu Garcia Ambassadeur 5500,16,95.51,9,100.00,0.0471
+2026-08,abu_garcia,abu_garcia-ambassadeur-7000c,Abu Garcia Ambassadeur 7000C,8,67.55,8,93.50,0.3841
+2026-08,abu_garcia,abu_garcia-ambassadeur-3600,Abu Garcia Ambassadeur 3600,5,34.99,6,29.99,-0.1428
+2026-08,abu_garcia,abu_garcia-ambassadeur-4500c,Abu Garcia Ambassadeur 4500C,6,62.25,6,64.98,0.0438
+2026-08,abu_garcia,abu_garcia-ambassadeur-6500cs,Abu Garcia Ambassadeur 6500CS,10,332.51,6,179.10,-0.4614
+2026-08,abu_garcia,abu_garcia-ambassadeur-1500c,Abu Garcia Ambassadeur 1500C,6,227.39,5,250.00,0.0994
