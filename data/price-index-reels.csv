@@ -1,4 +1,50 @@
 month,brand,id,name,prev_sales,prev_median_usd,sales,median_usd,change
+2026-10,penn,penn-senator-113h,Penn Senator 113H,36,53.50,46,48.00,-0.1028
+2026-10,penn,penn-jigmaster-500,Penn Jigmaster 500,33,27.00,36,29.97,0.1100
+2026-10,penn,penn-senator-114h,Penn Senator 114H,23,50.00,32,59.84,0.1968
+2026-10,penn,penn-peer-209,Penn Peer 209,50,20.88,29,19.99,-0.0424
+2026-10,penn,penn-long_beach-60,Penn Long Beach 60,10,15.00,20,22.50,0.5000
+2026-10,penn,penn-gti-320,Penn GTi 320,14,38.28,18,36.25,-0.0532
+2026-10,penn,penn-peer-109,Penn Peer 109,21,19.95,18,19.99,0.0020
+2026-10,penn,penn-peerless-9,Penn Peerless 9,24,20.00,18,24.99,0.2497
+2026-10,penn,penn-senator-6-0,Penn Senator 6/0,12,49.99,18,49.50,-0.0099
+2026-10,penn,penn-senator-4-0,Penn Senator 4/0,7,40.00,16,35.49,-0.1129
+2026-10,penn,penn-squidder-140,Penn Squidder 140,14,40.13,16,42.50,0.0592
+2026-10,penn,penn-delmar-285,Penn Delmar 285,15,12.56,14,14.99,0.1935
+2026-10,penn,penn-senator-112h,Penn Senator 112H,12,40.00,13,50.00,0.2500
+2026-10,penn,penn-gti-330,Penn GTi 330,9,40.00,11,49.55,0.2388
+2026-10,penn,penn-international-50tw,Penn International 50TW,8,367.50,10,323.00,-0.1211
+2026-10,penn,penn-spinfisher-704,Penn Spinfisher 704,7,53.00,10,34.99,-0.3398
+2026-10,penn,penn-international-50sw,Penn International 50SW,5,470.00,9,400.00,-0.1489
+2026-10,penn,penn-international-30tw,Penn International 30TW,9,299.99,8,298.50,-0.0050
+2026-10,penn,penn-long_beach-65,Penn Long Beach 65,10,20.36,8,20.00,-0.0177
+2026-10,penn,penn-peer-309,Penn Peer 309,18,25.30,8,22.48,-0.1115
+2026-10,penn,penn-senator-113,Penn Senator 113,11,34.99,8,70.00,1.0006
+2026-10,penn,penn-international-30sw,Penn International 30SW,7,331.00,7,315.00,-0.0483
+2026-10,penn,penn-mariner-49,Penn Mariner 49,14,39.99,7,21.99,-0.4501
+2026-10,penn,penn-senator-3-0,Penn Senator 3/0,6,30.00,7,20.00,-0.3333
+2026-10,penn,penn-senator-9-0,Penn Senator 9/0,17,104.00,7,72.00,-0.3077
+2026-10,penn,penn-leveline-350,Penn Leveline 350,14,28.22,6,19.81,-0.2979
+2026-10,penn,penn-levelmatic-940,Penn Levelmatic 940,11,58.97,6,42.59,-0.2779
+2026-10,penn,penn-mariner-349,Penn Mariner 349,6,57.74,6,38.98,-0.3250
+2026-10,penn,penn-senator-113hlw,Penn Senator 113HLW,7,62.95,6,84.54,0.3430
+2026-10,penn,penn-jigmaster-505hs,Penn Jigmaster 505HS,6,45.00,5,59.99,0.3333
+2026-10,penn,penn-surfmaster-200,Penn Surfmaster 200,7,24.99,5,10.00,-0.5998
+2026-10,abu_garcia,abu_garcia-ambassadeur-5000,Abu Garcia Ambassadeur 5000,101,42.00,104,39.50,-0.0596
+2026-10,abu_garcia,abu_garcia-ambassadeur-5500c,Abu Garcia Ambassadeur 5500C,69,49.22,68,39.99,-0.1875
+2026-10,abu_garcia,abu_garcia-ambassadeur-5000c,Abu Garcia Ambassadeur 5000C,30,40.00,43,50.00,0.2500
+2026-10,abu_garcia,abu_garcia-ambassadeur-6000,Abu Garcia Ambassadeur 6000,34,50.00,35,41.00,-0.1799
+2026-10,abu_garcia,abu_garcia-ambassadeur-2500c,Abu Garcia Ambassadeur 2500C,18,157.50,30,149.99,-0.0477
+2026-10,abu_garcia,abu_garcia-ambassadeur-6500c,Abu Garcia Ambassadeur 6500C,24,62.98,30,61.50,-0.0234
+2026-10,abu_garcia,abu_garcia-ambassadeur-5500,Abu Garcia Ambassadeur 5500,14,84.00,23,60.00,-0.2857
+2026-10,abu_garcia,abu_garcia-ambassadeur-5000d,Abu Garcia Ambassadeur 5000D,12,55.98,20,62.50,0.1165
+2026-10,abu_garcia,abu_garcia-ambassadeur-5600c,Abu Garcia Ambassadeur 5600C,11,72.80,15,49.99,-0.3133
+2026-10,abu_garcia,abu_garcia-ambassadeur-4600c,Abu Garcia Ambassadeur 4600C,12,55.50,13,59.95,0.0802
+2026-10,abu_garcia,abu_garcia-ambassadeur-6000c,Abu Garcia Ambassadeur 6000C,12,49.50,13,40.00,-0.1919
+2026-10,abu_garcia,abu_garcia-ambassadeur-7000,Abu Garcia Ambassadeur 7000,21,82.00,12,89.98,0.0973
+2026-10,abu_garcia,abu_garcia-ambassadeur-4500c,Abu Garcia Ambassadeur 4500C,9,74.98,11,99.99,0.3336
+2026-10,abu_garcia,abu_garcia-ambassadeur-6500,Abu Garcia Ambassadeur 6500,7,95.00,8,156.94,0.6520
+2026-10,abu_garcia,abu_garcia-ambassadeur-4600cb,Abu Garcia Ambassadeur 4600CB,5,63.00,6,41.50,-0.3413
 2026-09,penn,penn-peer-209,Penn Peer 209,62,20.65,50,20.88,0.0111
 2026-09,penn,penn-senator-113h,Penn Senator 113H,56,47.49,36,53.50,0.1266
 2026-09,penn,penn-jigmaster-500,Penn Jigmaster 500,38,26.35,33,27.00,0.0247

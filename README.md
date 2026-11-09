@@ -4,8 +4,8 @@ What vintage Penn and Abu Garcia fishing reels actually sell for: the median pri
 model, and a monthly price index. Published by [Reel Price Guide](https://reelpriceguide.com/), which shows the same figures page by page and
 updates them every day. This repository is refreshed once a month.
 
-Data date: 2026-10-10. Rows: 174 in `data/values.csv` (reels with a current value), 4 in
-`data/price-index.csv` (2 months of the price index), 103 in `data/price-index-reels.csv`.
+Data date: 2026-11-09. Rows: 174 in `data/values.csv` (reels with a current value), 6 in
+`data/price-index.csv` (3 months of the price index), 149 in `data/price-index-reels.csv`.
 
 ## Files
 
@@ -50,4 +50,4 @@ Details: [how the values are computed](https://reelpriceguide.com/methodology/) 
 
 [CC BY 4.0](LICENSE): free to share and adapt, also commercially, with attribution and a link to https://reelpriceguide.com/.
 
-Cite as: Reel Price Guide, reelpriceguide.com, October 2026.
+Cite as: Reel Price Guide, reelpriceguide.com, November 2026.
